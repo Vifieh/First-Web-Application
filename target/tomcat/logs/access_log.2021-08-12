@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:17:10:41 +0100] "GET / HTTP/1.1" 200 1413 http-bio-8080-exec-1 989
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:17:10:49 +0100] "GET /list-todos.do HTTP/1.1" 200 1413 http-bio-8080-exec-2 5
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:17:10:50 +0100] "GET /list-todos.do HTTP/1.1" 200 1413 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:17:11:06 +0100] "GET /list-todos.do HTTP/1.1" 200 1413 http-bio-8080-exec-4 3
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:17:43:03 +0100] "GET /view-categories HTTP/1.1" 404 981 http-bio-8080-exec-1 33
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:17:43:13 +0100] "GET /view-products HTTP/1.1" 404 977 http-bio-8080-exec-2 1
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:17:44:29 +0100] "GET /view-categories HTTP/1.1" 404 981 http-bio-8080-exec-4 1
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:17:44:30 +0100] "GET /view-categories HTTP/1.1" 404 981 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:17:44:38 +0100] "GET /view-categories HTTP/1.1" 404 981 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:17:44:53 +0100] "GET /landing-page HTTP/1.1" 404 975 http-bio-8080-exec-7 1
